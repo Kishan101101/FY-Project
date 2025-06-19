@@ -121,10 +121,6 @@ Proper logging practices have been implemented throughout the project to ensure 
 Feel free to open an issue if you encounter any problems or have questions about the setup process.
 
 
-## Author
-
-This project is authored by Abhishek Singh, a final year B.Tech CSE undergraduate at IIIT Bhagalpur. You can reach me at abhishekrathore1806@gmail.com.
-
 ## Contributing
 
 I am open to contributions! If you can work on the possible areas of improvement or have other enhancements in mind, feel free to fork the repository, make your changes, and initiate a pull request. If the changes are legitimate and add value to the project, I will merge them.
