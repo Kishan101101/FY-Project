@@ -52,11 +52,6 @@ Ensure you have the following installed:
 ## Setup Instructions
 
 1. **Clone the Repository**:
-    ```sh
-    https://github.com/abhishekiiitbh2903/E-KYC-.git
-    cd E-KYC-
-    ```
-
 2. **Create a Virtual Environment**:
     ```sh
     python -m venv .venv 
