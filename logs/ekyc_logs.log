@@ -1,0 +1,371 @@
+[2025-06-05 09:58:03,595: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-06-05 09:58:27,887: WARNING: module_wrapper]: From C:\Users\gulsy\Downloads\Desktop\EKYC\E-KYC-\.venv\lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2025-06-05 09:58:28,383: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-06-05 09:58:28,413: INFO: face_verification]: Extracting face...
+[2025-06-05 09:58:30,719: INFO: face_verification]: Extracted face saved at: C:\Users\gulsy\Downloads\Desktop\EKYC\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2025-06-05 09:58:31,077: INFO: sql_connection]: Connection established with database
+[2025-06-05 09:58:31,441: INFO: app]: Page layout set to wider configuration.
+[2025-06-05 09:58:31,442: INFO: app]: Custom theme applied to Streamlit app.
+[2025-06-05 09:58:31,443: INFO: app]: ID card type selected: PAN
+[2025-06-05 09:58:31,444: INFO: app]: Header set for PAN Card registration.
+[2025-06-05 17:53:40,376: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-06-05 17:54:04,008: WARNING: module_wrapper]: From C:\Users\gulsy\Downloads\Desktop\EKYC\E-KYC-\.venv\lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2025-06-05 17:54:05,367: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-06-05 17:54:05,399: INFO: face_verification]: Extracting face...
+[2025-06-05 17:54:06,480: INFO: face_verification]: Extracted face saved at: C:\Users\gulsy\Downloads\Desktop\EKYC\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2025-06-05 17:54:06,929: INFO: sql_connection]: Connection established with database
+[2025-06-05 17:54:07,015: INFO: sql_connection]: College ID table created or already exists
+[2025-06-05 17:54:07,783: INFO: app]: Page layout set to wider configuration.
+[2025-06-05 17:54:07,784: INFO: app]: Custom theme applied to Streamlit app.
+[2025-06-05 17:54:07,786: INFO: app]: ID card type selected: PAN
+[2025-06-05 17:54:07,787: INFO: app]: Header set for PAN Card registration.
+[2025-06-05 18:00:14,742: INFO: app]: Page layout set to wider configuration.
+[2025-06-05 18:00:14,743: INFO: app]: Custom theme applied to Streamlit app.
+[2025-06-05 18:00:14,746: INFO: app]: ID card type selected: COLLEGE ID
+[2025-06-05 18:00:14,747: INFO: app]: Header set for College ID Card registration.
+[2025-06-05 18:10:33,397: INFO: app]: Page layout set to wider configuration.
+[2025-06-05 18:10:33,399: INFO: app]: Custom theme applied to Streamlit app.
+[2025-06-05 18:10:33,405: INFO: app]: ID card type selected: COLLEGE ID
+[2025-06-05 18:10:33,406: INFO: app]: Header set for College ID Card registration.
+[2025-06-05 18:10:46,979: INFO: app]: Page layout set to wider configuration.
+[2025-06-05 18:10:46,980: INFO: app]: Custom theme applied to Streamlit app.
+[2025-06-05 18:10:46,981: INFO: app]: ID card type selected: COLLEGE ID
+[2025-06-05 18:10:46,982: INFO: app]: Header set for College ID Card registration.
+[2025-06-05 18:10:52,644: INFO: app]: Page layout set to wider configuration.
+[2025-06-05 18:10:52,644: INFO: app]: Custom theme applied to Streamlit app.
+[2025-06-05 18:10:52,645: INFO: app]: ID card type selected: COLLEGE ID
+[2025-06-05 18:10:52,646: INFO: app]: Header set for College ID Card registration.
+[2025-06-05 18:10:52,663: INFO: app]: ID card image loaded.
+[2025-06-05 18:10:52,683: INFO: preprocess]: contours are found at, (0, 0, 500, 500)
+[2025-06-05 18:10:52,685: INFO: utils]: File exists at C:\Users\gulsy\Downloads\Desktop\EKYC\E-KYC-\data\02_intermediate_data\contour_id.jpg
+[2025-06-05 18:10:52,693: INFO: app]: ID card ROI extracted.
+[2025-06-05 18:10:52,693: INFO: face_verification]: Extracting face...
+[2025-06-05 18:10:52,762: INFO: face_verification]: Extracted face saved at: C:\Users\gulsy\Downloads\Desktop\EKYC\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2025-06-05 18:10:52,763: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2025-06-05 18:10:52,769: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-06-05 18:10:52,769: INFO: app]: Faces extracted and saved.
+[2025-06-05 18:10:52,769: INFO: face_verification]: Verifying the images....
+[2025-06-05 18:10:52,769: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2025-06-05 18:10:52,769: INFO: utils]: File exists at C:\Users\gulsy\Downloads\Desktop\EKYC\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2025-06-05 18:10:55,418: INFO: face_verification]: Faces are verified as the same person
+[2025-06-05 18:10:55,419: INFO: app]: Face verification status: successful.
+[2025-06-05 18:10:55,419: INFO: ocr_engine]: Text Extraction Started...
+[2025-06-05 18:10:55,420: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-06-05 18:10:57,476: INFO: ocr_engine]: Inside Try-Catch...
+[2025-06-05 18:10:58,014: INFO: app]: Page layout set to wider configuration.
+[2025-06-05 18:10:58,015: INFO: app]: Custom theme applied to Streamlit app.
+[2025-06-05 18:10:58,017: INFO: app]: ID card type selected: COLLEGE ID
+[2025-06-05 18:10:58,017: INFO: app]: Header set for College ID Card registration.
+[2025-06-05 18:10:58,032: INFO: app]: ID card image loaded.
+[2025-06-05 18:10:58,035: INFO: preprocess]: contours are found at, (36, 16, 783, 522)
+[2025-06-05 18:10:58,036: INFO: utils]: File exists at C:\Users\gulsy\Downloads\Desktop\EKYC\E-KYC-\data\02_intermediate_data\contour_id.jpg
+[2025-06-05 18:10:58,049: INFO: app]: ID card ROI extracted.
+[2025-06-05 18:10:58,050: INFO: face_verification]: Extracting face...
+[2025-06-05 18:10:58,143: INFO: face_verification]: Extracted face saved at: C:\Users\gulsy\Downloads\Desktop\EKYC\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2025-06-05 18:10:58,145: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2025-06-05 18:10:58,152: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-06-05 18:10:58,152: INFO: app]: Faces extracted and saved.
+[2025-06-05 18:10:58,152: INFO: face_verification]: Verifying the images....
+[2025-06-05 18:10:58,153: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2025-06-05 18:10:58,153: INFO: utils]: File exists at C:\Users\gulsy\Downloads\Desktop\EKYC\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2025-06-05 18:10:58,701: INFO: face_verification]: Faces are verified as the same person
+[2025-06-05 18:10:58,702: INFO: app]: Face verification status: successful.
+[2025-06-05 18:10:58,702: INFO: ocr_engine]: Text Extraction Started...
+[2025-06-05 18:10:58,702: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-06-05 18:10:58,735: INFO: ocr_engine]: Extracted Text: |2022/10/072113|
+[2025-06-05 18:10:58,736: INFO: app]: Text extracted from ID card.
+[2025-06-05 18:10:58,809: INFO: sql_connection]: No college ID records found.
+[2025-06-05 18:10:58,814: INFO: sql_connection]: No college ID records found.
+[2025-06-05 18:10:58,815: INFO: sql_connection]: No duplicate college ID records found.
+[2025-06-05 18:10:58,815: INFO: face_verification]: Retrieving face embeddings from image: data\02_intermediate_data\face_image.jpg
+[2025-06-05 18:10:58,815: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2025-06-05 18:11:01,430: INFO: ocr_engine]: Inside Try-Catch...
+[2025-06-05 18:11:02,426: INFO: face_verification]: Face embeddings retrieved successfully
+[2025-06-05 18:11:02,431: ERROR: sql_connection]: Error inserting records into college_ids table: 1292 (22007): Incorrect date value: '' for column 'validity' at row 1
+[2025-06-05 18:11:03,513: INFO: ocr_engine]: Extracted Text: |CSJJ.M: UNIVERSITY, KANPUR|Identity Card|Name|Darsh Vaibhav|Desig ICourse|B.Tech|2k21|Department|Comp. Sc. & Engg:|Contact No_|9555465817|Validity|6/30/2025|Address|Slo Sudesh Kumar,|Idgah Nagar ke Peeche Lakhpera Bagh|Bara Banki|Proctor|
+[2025-06-05 18:11:03,514: INFO: app]: Text extracted from ID card.
+[2025-06-05 18:11:03,516: INFO: sql_connection]: No college ID records found.
+[2025-06-05 18:11:03,518: INFO: sql_connection]: No college ID records found.
+[2025-06-05 18:11:03,518: INFO: sql_connection]: No duplicate college ID records found.
+[2025-06-05 18:11:03,518: INFO: face_verification]: Retrieving face embeddings from image: data\02_intermediate_data\face_image.jpg
+[2025-06-05 18:11:03,518: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2025-06-05 18:11:03,907: INFO: face_verification]: Face embeddings retrieved successfully
+[2025-06-05 18:11:03,927: INFO: sql_connection]: Inserted records successfully into college_ids table.
+[2025-06-05 18:11:03,927: INFO: app]: New college ID record inserted: Darsh Vaibhav
+[2025-06-05 18:21:15,597: INFO: app]: Page layout set to wider configuration.
+[2025-06-05 18:21:15,597: INFO: app]: Custom theme applied to Streamlit app.
+[2025-06-05 18:21:15,599: INFO: app]: ID card type selected: PAN
+[2025-06-05 18:21:15,600: INFO: app]: Header set for PAN Card registration.
+[2025-06-05 18:21:15,610: INFO: app]: ID card image loaded.
+[2025-06-05 18:21:15,614: INFO: preprocess]: contours are found at, (36, 16, 783, 522)
+[2025-06-05 18:21:15,614: INFO: utils]: File exists at C:\Users\gulsy\Downloads\Desktop\EKYC\E-KYC-\data\02_intermediate_data\contour_id.jpg
+[2025-06-05 18:21:15,631: INFO: app]: ID card ROI extracted.
+[2025-06-05 18:21:15,631: INFO: face_verification]: Extracting face...
+[2025-06-05 18:21:15,718: INFO: face_verification]: Extracted face saved at: C:\Users\gulsy\Downloads\Desktop\EKYC\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2025-06-05 18:21:15,719: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2025-06-05 18:21:15,724: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-06-05 18:21:15,725: INFO: app]: Faces extracted and saved.
+[2025-06-05 18:21:15,725: INFO: face_verification]: Verifying the images....
+[2025-06-05 18:21:15,725: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2025-06-05 18:21:15,725: INFO: utils]: File exists at C:\Users\gulsy\Downloads\Desktop\EKYC\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2025-06-05 18:21:16,268: INFO: face_verification]: Faces are verified as the same person
+[2025-06-05 18:21:16,268: INFO: app]: Face verification status: successful.
+[2025-06-05 18:21:16,268: INFO: ocr_engine]: Text Extraction Started...
+[2025-06-05 18:21:16,269: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-06-05 18:21:19,131: INFO: ocr_engine]: Inside Try-Catch...
+[2025-06-05 18:21:23,716: INFO: ocr_engine]: Extracted Text: |CSJJ.M: UNIVERSITY, KANPUR|Identity Card|Name|Darsh Vaibhav|Desig ICourse|B.Tech|2k21|Department|Comp. Sc. & Engg:|Contact No_|9555465817|Validity|6/30/2025|Address|Slo Sudesh Kumar,|Idgah Nagar ke Peeche Lakhpera Bagh|Bara Banki|Proctor|
+[2025-06-05 18:21:23,716: INFO: app]: Text extracted from ID card.
+[2025-06-05 18:21:23,761: INFO: sql_connection]: No records found.
+[2025-06-05 18:21:23,763: INFO: sql_connection]: No records found.
+[2025-06-05 18:21:23,764: INFO: sql_connection]: No duplicate records found.
+[2025-06-05 18:22:00,582: INFO: app]: Page layout set to wider configuration.
+[2025-06-05 18:22:00,583: INFO: app]: Custom theme applied to Streamlit app.
+[2025-06-05 18:22:00,585: INFO: app]: ID card type selected: PAN
+[2025-06-05 18:22:00,585: INFO: app]: Header set for PAN Card registration.
+[2025-06-05 18:22:00,612: INFO: app]: ID card image loaded.
+[2025-06-05 18:22:00,626: INFO: preprocess]: contours are found at, (0, 0, 1163, 723)
+[2025-06-05 18:22:00,627: INFO: utils]: File exists at C:\Users\gulsy\Downloads\Desktop\EKYC\E-KYC-\data\02_intermediate_data\contour_id.jpg
+[2025-06-05 18:22:00,652: INFO: app]: ID card ROI extracted.
+[2025-06-05 18:22:00,652: INFO: face_verification]: Extracting face...
+[2025-06-05 18:22:01,016: INFO: face_verification]: Extracted face saved at: C:\Users\gulsy\Downloads\Desktop\EKYC\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2025-06-05 18:22:01,019: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2025-06-05 18:22:01,028: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-06-05 18:22:01,028: INFO: app]: Faces extracted and saved.
+[2025-06-05 18:22:01,029: INFO: face_verification]: Verifying the images....
+[2025-06-05 18:22:01,029: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2025-06-05 18:22:01,029: INFO: utils]: File exists at C:\Users\gulsy\Downloads\Desktop\EKYC\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2025-06-05 18:22:02,566: INFO: face_verification]: Faces are not verified as the same person
+[2025-06-05 18:22:02,566: INFO: app]: Face verification status: failed.
+[2025-06-05 18:22:06,345: INFO: app]: Page layout set to wider configuration.
+[2025-06-05 18:22:06,347: INFO: app]: Custom theme applied to Streamlit app.
+[2025-06-05 18:22:06,349: INFO: app]: ID card type selected: PAN
+[2025-06-05 18:22:06,350: INFO: app]: Header set for PAN Card registration.
+[2025-06-05 18:22:06,412: INFO: app]: ID card image loaded.
+[2025-06-05 18:22:06,425: INFO: preprocess]: contours are found at, (0, 0, 1163, 723)
+[2025-06-05 18:22:06,425: INFO: utils]: File exists at C:\Users\gulsy\Downloads\Desktop\EKYC\E-KYC-\data\02_intermediate_data\contour_id.jpg
+[2025-06-05 18:22:06,453: INFO: app]: ID card ROI extracted.
+[2025-06-05 18:22:06,454: INFO: face_verification]: Extracting face...
+[2025-06-05 18:22:06,799: INFO: face_verification]: Extracted face saved at: C:\Users\gulsy\Downloads\Desktop\EKYC\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2025-06-05 18:22:06,803: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2025-06-05 18:22:06,849: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-06-05 18:22:06,849: INFO: app]: Faces extracted and saved.
+[2025-06-05 18:22:06,850: INFO: face_verification]: Verifying the images....
+[2025-06-05 18:22:06,850: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2025-06-05 18:22:06,850: INFO: utils]: File exists at C:\Users\gulsy\Downloads\Desktop\EKYC\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2025-06-05 18:22:10,167: INFO: face_verification]: Faces are verified as the same person
+[2025-06-05 18:22:10,167: INFO: app]: Face verification status: successful.
+[2025-06-05 18:22:10,167: INFO: ocr_engine]: Text Extraction Started...
+[2025-06-05 18:22:10,168: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-06-05 18:22:13,672: INFO: ocr_engine]: Inside Try-Catch...
+[2025-06-05 18:22:22,257: INFO: ocr_engine]: Extracted Text: |fetrT|HRT|INCOME TAX DEPARTMENT|GOVT OF INDIA|Permanent Account Number Card|LRIPK7739J|YASH KUMAR KASHYAP|GAURI SHANKAR NISHAD|12022022|Date ol Birth|10/04/2003|
+[2025-06-05 18:22:22,257: INFO: app]: Text extracted from ID card.
+[2025-06-05 18:22:22,264: INFO: sql_connection]: Fetched records successfully from users table.
+[2025-06-05 18:22:22,298: INFO: sql_connection]: Fetched records successfully from users table.
+[2025-06-05 18:22:22,299: INFO: sql_connection]: Duplicate records found.
+[2025-06-05 18:22:33,175: INFO: app]: Page layout set to wider configuration.
+[2025-06-05 18:22:33,176: INFO: app]: Custom theme applied to Streamlit app.
+[2025-06-05 18:22:33,179: INFO: app]: ID card type selected: PAN
+[2025-06-05 18:22:33,180: INFO: app]: Header set for PAN Card registration.
+[2025-06-05 18:22:43,594: INFO: app]: Page layout set to wider configuration.
+[2025-06-05 18:22:43,595: INFO: app]: Custom theme applied to Streamlit app.
+[2025-06-05 18:22:43,599: INFO: app]: ID card type selected: AADHAR
+[2025-06-05 18:22:43,601: INFO: app]: Header set for Aadhar Card registration.
+[2025-06-05 18:24:26,824: INFO: app]: Page layout set to wider configuration.
+[2025-06-05 18:24:26,825: INFO: app]: Custom theme applied to Streamlit app.
+[2025-06-05 18:24:26,827: INFO: app]: ID card type selected: AADHAR
+[2025-06-05 18:24:26,827: INFO: app]: Header set for Aadhar Card registration.
+[2025-06-05 18:24:31,709: INFO: app]: Page layout set to wider configuration.
+[2025-06-05 18:24:31,712: INFO: app]: Custom theme applied to Streamlit app.
+[2025-06-05 18:24:31,715: INFO: app]: ID card type selected: AADHAR
+[2025-06-05 18:24:31,717: INFO: app]: Header set for Aadhar Card registration.
+[2025-06-05 18:24:31,788: INFO: app]: ID card image loaded.
+[2025-06-05 18:24:31,799: INFO: preprocess]: contours are found at, (2, 0, 1268, 799)
+[2025-06-05 18:24:31,800: INFO: utils]: File exists at C:\Users\gulsy\Downloads\Desktop\EKYC\E-KYC-\data\02_intermediate_data\contour_id.jpg
+[2025-06-05 18:24:31,826: INFO: app]: ID card ROI extracted.
+[2025-06-05 18:24:31,827: INFO: face_verification]: Extracting face...
+[2025-06-05 18:24:32,144: INFO: face_verification]: Extracted face saved at: C:\Users\gulsy\Downloads\Desktop\EKYC\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2025-06-05 18:24:32,149: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2025-06-05 18:24:32,177: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-06-05 18:24:32,177: INFO: app]: Faces extracted and saved.
+[2025-06-05 18:24:32,177: INFO: face_verification]: Verifying the images....
+[2025-06-05 18:24:32,177: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2025-06-05 18:24:32,178: INFO: utils]: File exists at C:\Users\gulsy\Downloads\Desktop\EKYC\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2025-06-05 18:24:34,096: INFO: face_verification]: Faces are not verified as the same person
+[2025-06-05 18:24:34,096: INFO: app]: Face verification status: failed.
+[2025-06-05 18:24:52,404: INFO: app]: Page layout set to wider configuration.
+[2025-06-05 18:24:52,405: INFO: app]: Custom theme applied to Streamlit app.
+[2025-06-05 18:24:52,407: INFO: app]: ID card type selected: AADHAR
+[2025-06-05 18:24:52,408: INFO: app]: Header set for Aadhar Card registration.
+[2025-06-05 18:24:52,482: INFO: app]: ID card image loaded.
+[2025-06-05 18:24:52,496: INFO: preprocess]: contours are found at, (0, 0, 1280, 877)
+[2025-06-05 18:24:52,497: INFO: utils]: File exists at C:\Users\gulsy\Downloads\Desktop\EKYC\E-KYC-\data\02_intermediate_data\contour_id.jpg
+[2025-06-05 18:24:52,529: INFO: app]: ID card ROI extracted.
+[2025-06-05 18:24:52,529: INFO: face_verification]: Extracting face...
+[2025-06-05 18:24:52,886: INFO: face_verification]: Extracted face saved at: C:\Users\gulsy\Downloads\Desktop\EKYC\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2025-06-05 18:24:52,891: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2025-06-05 18:24:52,920: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-06-05 18:24:52,921: INFO: app]: Faces extracted and saved.
+[2025-06-05 18:24:52,921: INFO: face_verification]: Verifying the images....
+[2025-06-05 18:24:52,921: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2025-06-05 18:24:52,922: INFO: utils]: File exists at C:\Users\gulsy\Downloads\Desktop\EKYC\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2025-06-05 18:24:54,891: INFO: face_verification]: Faces are not verified as the same person
+[2025-06-05 18:24:54,892: INFO: app]: Face verification status: failed.
+[2025-06-05 20:05:27,436: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-06-05 20:05:53,597: WARNING: module_wrapper]: From C:\Users\gulsy\Downloads\Desktop\EKYC\E-KYC-\.venv\lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2025-06-05 20:05:54,379: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-06-05 20:05:54,403: INFO: face_verification]: Extracting face...
+[2025-06-05 20:05:55,031: INFO: face_verification]: Extracted face saved at: C:\Users\gulsy\Downloads\Desktop\EKYC\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2025-06-05 20:05:55,396: INFO: sql_connection]: Connection established with database
+[2025-06-05 20:05:55,415: INFO: sql_connection]: College ID table created or already exists
+[2025-06-05 20:05:55,860: INFO: app]: Page layout set to wider configuration.
+[2025-06-05 20:05:55,860: INFO: app]: Custom theme applied to Streamlit app.
+[2025-06-05 20:05:55,864: INFO: app]: ID card type selected: PAN
+[2025-06-05 20:05:55,864: INFO: app]: Header set for PAN Card registration.
+[2025-06-05 20:06:13,165: INFO: app]: Page layout set to wider configuration.
+[2025-06-05 20:06:13,165: INFO: app]: Custom theme applied to Streamlit app.
+[2025-06-05 20:06:13,165: INFO: app]: ID card type selected: PAN
+[2025-06-05 20:06:13,165: INFO: app]: Header set for PAN Card registration.
+[2025-06-05 20:06:17,279: INFO: app]: Page layout set to wider configuration.
+[2025-06-05 20:06:17,279: INFO: app]: Custom theme applied to Streamlit app.
+[2025-06-05 20:06:17,283: INFO: app]: ID card type selected: PAN
+[2025-06-05 20:06:17,284: INFO: app]: Header set for PAN Card registration.
+[2025-06-05 20:06:17,336: INFO: app]: ID card image loaded.
+[2025-06-05 20:06:17,347: INFO: preprocess]: contours are found at, (0, 0, 1163, 723)
+[2025-06-05 20:06:17,347: INFO: utils]: File exists at C:\Users\gulsy\Downloads\Desktop\EKYC\E-KYC-\data\02_intermediate_data\contour_id.jpg
+[2025-06-05 20:06:17,375: INFO: app]: ID card ROI extracted.
+[2025-06-05 20:06:17,375: INFO: face_verification]: Extracting face...
+[2025-06-05 20:06:17,914: INFO: face_verification]: Extracted face saved at: C:\Users\gulsy\Downloads\Desktop\EKYC\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2025-06-05 20:06:17,914: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2025-06-05 20:06:17,996: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-06-05 20:06:17,996: INFO: app]: Faces extracted and saved.
+[2025-06-05 20:06:17,996: INFO: face_verification]: Verifying the images....
+[2025-06-05 20:06:17,998: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2025-06-05 20:06:17,998: INFO: utils]: File exists at C:\Users\gulsy\Downloads\Desktop\EKYC\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2025-06-05 20:06:25,309: INFO: face_verification]: Faces are verified as the same person
+[2025-06-05 20:06:25,309: INFO: app]: Face verification status: successful.
+[2025-06-05 20:06:25,309: INFO: ocr_engine]: Text Extraction Started...
+[2025-06-05 20:06:25,325: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-06-05 20:06:26,869: INFO: ocr_engine]: Inside Try-Catch...
+[2025-06-05 20:06:29,796: INFO: ocr_engine]: Extracted Text: |fetrT|HRT|INCOME TAX DEPARTMENT|GOVT OF INDIA|Permanent Account Number Card|LRIPK7739J|YASH KUMAR KASHYAP|GAURI SHANKAR NISHAD|12022022|Date ol Birth|10/04/2003|
+[2025-06-05 20:06:29,812: INFO: app]: Text extracted from ID card.
+[2025-06-05 20:06:29,812: INFO: sql_connection]: Fetched records successfully from users table.
+[2025-06-05 20:06:29,812: INFO: sql_connection]: Fetched records successfully from users table.
+[2025-06-05 20:06:29,812: INFO: sql_connection]: Duplicate records found.
+[2025-06-05 20:06:44,784: INFO: app]: Page layout set to wider configuration.
+[2025-06-05 20:06:44,784: INFO: app]: Custom theme applied to Streamlit app.
+[2025-06-05 20:06:44,799: INFO: app]: ID card type selected: AADHAR
+[2025-06-05 20:06:44,799: INFO: app]: Header set for Aadhar Card registration.
+[2025-06-05 20:06:44,827: INFO: app]: ID card image loaded.
+[2025-06-05 20:06:44,835: INFO: preprocess]: contours are found at, (0, 0, 1163, 723)
+[2025-06-05 20:06:44,835: INFO: utils]: File exists at C:\Users\gulsy\Downloads\Desktop\EKYC\E-KYC-\data\02_intermediate_data\contour_id.jpg
+[2025-06-05 20:06:44,847: INFO: app]: ID card ROI extracted.
+[2025-06-05 20:06:44,847: INFO: face_verification]: Extracting face...
+[2025-06-05 20:06:45,262: INFO: face_verification]: Extracted face saved at: C:\Users\gulsy\Downloads\Desktop\EKYC\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2025-06-05 20:06:45,270: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2025-06-05 20:06:45,339: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-06-05 20:06:45,339: INFO: app]: Faces extracted and saved.
+[2025-06-05 20:06:45,339: INFO: face_verification]: Verifying the images....
+[2025-06-05 20:06:45,339: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2025-06-05 20:06:45,339: INFO: utils]: File exists at C:\Users\gulsy\Downloads\Desktop\EKYC\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2025-06-05 20:06:48,241: INFO: face_verification]: Faces are verified as the same person
+[2025-06-05 20:06:48,241: INFO: app]: Face verification status: successful.
+[2025-06-05 20:06:48,241: INFO: ocr_engine]: Text Extraction Started...
+[2025-06-05 20:06:48,241: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-06-05 20:06:52,020: INFO: ocr_engine]: Inside Try-Catch...
+[2025-06-05 20:06:52,375: INFO: app]: Page layout set to wider configuration.
+[2025-06-05 20:06:52,375: INFO: app]: Custom theme applied to Streamlit app.
+[2025-06-05 20:06:52,380: INFO: app]: ID card type selected: AADHAR
+[2025-06-05 20:06:52,380: INFO: app]: Header set for Aadhar Card registration.
+[2025-06-05 20:06:52,614: INFO: app]: ID card image loaded.
+[2025-06-05 20:06:52,652: INFO: preprocess]: contours are found at, (10, 5, 1264, 829)
+[2025-06-05 20:06:52,652: INFO: utils]: File exists at C:\Users\gulsy\Downloads\Desktop\EKYC\E-KYC-\data\02_intermediate_data\contour_id.jpg
+[2025-06-05 20:06:52,812: INFO: app]: ID card ROI extracted.
+[2025-06-05 20:06:52,813: INFO: face_verification]: Extracting face...
+[2025-06-05 20:06:54,707: INFO: face_verification]: Extracted face saved at: C:\Users\gulsy\Downloads\Desktop\EKYC\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2025-06-05 20:06:54,722: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2025-06-05 20:06:55,041: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-06-05 20:06:55,041: INFO: app]: Faces extracted and saved.
+[2025-06-05 20:06:55,041: INFO: face_verification]: Verifying the images....
+[2025-06-05 20:06:55,041: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2025-06-05 20:06:55,041: INFO: utils]: File exists at C:\Users\gulsy\Downloads\Desktop\EKYC\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2025-06-05 20:07:04,117: INFO: app]: Page layout set to wider configuration.
+[2025-06-05 20:07:04,117: INFO: app]: Custom theme applied to Streamlit app.
+[2025-06-05 20:07:04,117: INFO: app]: ID card type selected: AADHAR
+[2025-06-05 20:07:04,117: INFO: app]: Header set for Aadhar Card registration.
+[2025-06-05 20:07:04,324: INFO: face_verification]: Faces are not verified as the same person
+[2025-06-05 20:07:04,324: INFO: app]: Face verification status: failed.
+[2025-06-05 20:07:05,591: INFO: app]: ID card image loaded.
+[2025-06-05 20:07:05,607: INFO: preprocess]: contours are found at, (10, 5, 1264, 829)
+[2025-06-05 20:07:05,607: INFO: utils]: File exists at C:\Users\gulsy\Downloads\Desktop\EKYC\E-KYC-\data\02_intermediate_data\contour_id.jpg
+[2025-06-05 20:07:05,806: INFO: app]: ID card ROI extracted.
+[2025-06-05 20:07:05,806: INFO: face_verification]: Extracting face...
+[2025-06-05 20:07:07,956: INFO: face_verification]: Extracted face saved at: C:\Users\gulsy\Downloads\Desktop\EKYC\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2025-06-05 20:07:07,986: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2025-06-05 20:07:08,018: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-06-05 20:07:08,018: INFO: app]: Faces extracted and saved.
+[2025-06-05 20:07:08,018: INFO: face_verification]: Verifying the images....
+[2025-06-05 20:07:08,018: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2025-06-05 20:07:08,018: INFO: utils]: File exists at C:\Users\gulsy\Downloads\Desktop\EKYC\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2025-06-05 20:07:11,024: INFO: face_verification]: Faces are not verified as the same person
+[2025-06-05 20:07:11,024: INFO: app]: Face verification status: failed.
+[2025-06-05 20:07:14,637: INFO: ocr_engine]: Extracted Text: |fetrT|HRT|INCOME TAX DEPARTMENT|GOVT OF INDIA|Permanent Account Number Card|LRIPK7739J|YASH KUMAR KASHYAP|GAURI SHANKAR NISHAD|12022022|Date ol Birth|10/04/2003|
+[2025-06-05 20:07:14,637: INFO: app]: Text extracted from ID card.
+[2025-06-05 20:07:14,684: INFO: sql_connection]: No records found.
+[2025-06-05 20:07:14,684: INFO: sql_connection]: No records found.
+[2025-06-05 20:07:14,684: INFO: sql_connection]: No duplicate records found.
+[2025-06-05 20:07:14,684: INFO: face_verification]: Retrieving face embeddings from image: data\02_intermediate_data\face_image.jpg
+[2025-06-05 20:07:14,684: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2025-06-05 20:07:21,109: INFO: face_verification]: Face embeddings retrieved successfully
+[2025-06-05 20:07:21,126: ERROR: sql_connection]: Error inserting records into aadhar table: 1265 (01000): Data truncated for column 'gender' at row 1
+[2025-06-05 20:08:16,179: INFO: app]: Page layout set to wider configuration.
+[2025-06-05 20:08:16,179: INFO: app]: Custom theme applied to Streamlit app.
+[2025-06-05 20:08:16,186: INFO: app]: ID card type selected: AADHAR
+[2025-06-05 20:08:16,187: INFO: app]: Header set for Aadhar Card registration.
+[2025-06-05 20:08:16,227: INFO: app]: ID card image loaded.
+[2025-06-05 20:08:16,237: INFO: preprocess]: contours are found at, (0, 0, 1280, 877)
+[2025-06-05 20:08:16,237: INFO: utils]: File exists at C:\Users\gulsy\Downloads\Desktop\EKYC\E-KYC-\data\02_intermediate_data\contour_id.jpg
+[2025-06-05 20:08:16,269: INFO: app]: ID card ROI extracted.
+[2025-06-05 20:08:16,269: INFO: face_verification]: Extracting face...
+[2025-06-05 20:08:17,479: INFO: face_verification]: Extracted face saved at: C:\Users\gulsy\Downloads\Desktop\EKYC\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2025-06-05 20:08:17,488: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2025-06-05 20:08:17,505: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-06-05 20:08:17,505: INFO: app]: Faces extracted and saved.
+[2025-06-05 20:08:17,505: INFO: face_verification]: Verifying the images....
+[2025-06-05 20:08:17,505: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2025-06-05 20:08:17,505: INFO: utils]: File exists at C:\Users\gulsy\Downloads\Desktop\EKYC\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2025-06-05 20:08:18,555: INFO: face_verification]: Faces are not verified as the same person
+[2025-06-05 20:08:18,555: INFO: app]: Face verification status: failed.
+[2025-06-05 20:08:19,812: INFO: app]: Page layout set to wider configuration.
+[2025-06-05 20:08:19,813: INFO: app]: Custom theme applied to Streamlit app.
+[2025-06-05 20:08:19,813: INFO: app]: ID card type selected: AADHAR
+[2025-06-05 20:08:19,813: INFO: app]: Header set for Aadhar Card registration.
+[2025-06-05 20:08:19,857: INFO: app]: ID card image loaded.
+[2025-06-05 20:08:19,872: INFO: preprocess]: contours are found at, (0, 0, 1280, 877)
+[2025-06-05 20:08:19,874: INFO: utils]: File exists at C:\Users\gulsy\Downloads\Desktop\EKYC\E-KYC-\data\02_intermediate_data\contour_id.jpg
+[2025-06-05 20:08:19,904: INFO: app]: ID card ROI extracted.
+[2025-06-05 20:08:19,904: INFO: face_verification]: Extracting face...
+[2025-06-05 20:08:20,275: INFO: face_verification]: Extracted face saved at: C:\Users\gulsy\Downloads\Desktop\EKYC\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2025-06-05 20:08:20,287: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2025-06-05 20:08:20,312: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-06-05 20:08:20,312: INFO: app]: Faces extracted and saved.
+[2025-06-05 20:08:20,312: INFO: face_verification]: Verifying the images....
+[2025-06-05 20:08:20,312: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2025-06-05 20:08:20,312: INFO: utils]: File exists at C:\Users\gulsy\Downloads\Desktop\EKYC\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2025-06-05 20:08:21,742: INFO: face_verification]: Faces are verified as the same person
+[2025-06-05 20:08:21,742: INFO: app]: Face verification status: successful.
+[2025-06-05 20:08:21,742: INFO: ocr_engine]: Text Extraction Started...
+[2025-06-05 20:08:21,742: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-06-05 20:08:25,586: INFO: ocr_engine]: Inside Try-Catch...
+[2025-06-05 20:08:41,214: INFO: ocr_engine]: Extracted Text: |Government of India|Shobhit|DOB|15/01/2003|59|Male|8568|7502|0614|
+[2025-06-05 20:08:41,214: INFO: app]: Text extracted from ID card.
+[2025-06-05 20:08:41,214: INFO: sql_connection]: No records found.
+[2025-06-05 20:08:41,218: INFO: sql_connection]: No records found.
+[2025-06-05 20:08:41,218: INFO: sql_connection]: No duplicate records found.
+[2025-06-05 20:08:41,218: INFO: face_verification]: Retrieving face embeddings from image: data\02_intermediate_data\face_image.jpg
+[2025-06-05 20:08:41,218: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2025-06-05 20:08:41,792: INFO: face_verification]: Face embeddings retrieved successfully
+[2025-06-05 20:08:41,824: INFO: sql_connection]: Inserted records successfully into aadhar table.
+[2025-06-05 20:08:41,824: INFO: app]: New user record inserted: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
