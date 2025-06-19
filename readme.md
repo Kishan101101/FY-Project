@@ -52,11 +52,6 @@ Ensure you have the following installed:
 ## Setup Instructions
 
 1. **Clone the Repository**:
-    ```sh
-    https://github.com/abhishekiiitbh2903/E-KYC-.git
-    cd E-KYC-
-    ```
-
 2. **Create a Virtual Environment**:
     ```sh
     python -m venv .venv 
@@ -125,10 +120,6 @@ Proper logging practices have been implemented throughout the project to ensure 
 
 Feel free to open an issue if you encounter any problems or have questions about the setup process.
 
-
-## Author
-
-This project is authored by Abhishek Singh, a final year B.Tech CSE undergraduate at IIIT Bhagalpur. You can reach me at abhishekrathore1806@gmail.com.
 
 ## Contributing
 
